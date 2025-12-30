@@ -77,9 +77,54 @@ This application allows users to browse folders, manage files, and view file det
 
 Main Window
 
-<img width="900" height="473" alt="image" src="https://github.com/user-attachments/assets/cdcd3e57-b6c2-4288-a561-352e835cc676" />
-
 <p align="center">
-  <img src="screenshots/main window.jpeg" width="750">
+  <img src="Screenshots/main window.jpeg" width="750">
 </p>
 
+Create New File Dialog box
+
+<p align="center">
+  <img src="Screenshots/new file.jpeg" width="750">
+</p>
+
+Toggle View
+
+<p align="center">
+  <img src="Screenshots/toggle view.jpeg" width="750">
+</p>
+
+Right Click menu
+
+<p align="center">
+  <img src="Screenshots/right click menu.jpeg" width="750">
+</p>
+
+Create New Folder Dialog box
+
+<p align="center">
+  <img src="Screenshots/new folder.jpeg" width="750">
+</p>
+
+Delete operation
+
+<p align="center">
+  <img src="Screenshots/delete operation.jpeg" width="750">
+</p>
+
+Search operation
+
+<p align="center">
+  <img src="Screenshots/search operation.jpeg" width="750">
+</p>
+
+Multiple Select 
+
+<p align="center">
+  <img src="Screenshots/multiple select.jpeg" width="750">
+</p>
+
+Properties Dialog box
+
+<p align="center">
+  <img src="Screenshots/properties dialog box.jpeg" width="750">
+</p>
