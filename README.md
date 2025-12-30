@@ -74,3 +74,9 @@ This application allows users to browse folders, manage files, and view file det
 •	Undo and Redo support for file operations
 
 •	Thumbnail view for images and videos
+
+## Screenshots
+
+Main Window
+
+<img width="900" height="473" alt="image" src="https://github.com/user-attachments/assets/cdcd3e57-b6c2-4288-a561-352e835cc676" />
